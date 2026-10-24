@@ -7,8 +7,8 @@ document.querySelector("h1").textContent = myName;
 
 // 2. Set the profile image
 const profileImage = document.getElementById("profile-image");
-profileImage.src = "profile.jpg";
-profileImage.alt = "Photo of " + myName;
+profileImage.src = "img.jpg";
+profileImage.alt = "Photo of "PHOTO OF KWIZERA DIVINE";
 
 // 3. Add active class to the first navigation link
 const firstLink = document.querySelector("nav a");
